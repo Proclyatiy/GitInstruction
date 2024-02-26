@@ -73,3 +73,5 @@ git log
 ```sh
 git commit --amend -m "New commit"
 ```
+
+## Как добавлять картинки в Markdown

@@ -75,3 +75,5 @@ git commit --amend -m "New commit"
 ```
 
 ## Как добавлять картинки в Markdown
+Это злой и хитрый волк из сказки
+![Страшный волк](browser_31gsqyzVdk.png)

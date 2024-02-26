@@ -1,5 +1,16 @@
 # Инструкция по языку MarkDown
 
+## Установка Git, VSCode. Настройка по.
+
+[Здесь можно](https://git-scm.com/downloads) можно скачать GIT.
+
+А вот [здесь](https://code.visualstudio.com/Download "Visual Studio Code") можно скачать Visual Studio Code.
+
+[Помощь](https://selectel.ru/blog/tutorials/how-to-install-git-to-windows/) в настройке GIT'a
+
+[Помощь](https://habr.com/ru/articles/490754/) в настройке Visual Studio Code
+
+
 ## Настройка git
 Необходимо познакомить себя с git'om
 ```sh

@@ -82,3 +82,8 @@ git commit --amend -m "New commit"
 ```sh
 git branch
 ```
+
+## Перемещение по веткам
+```sh
+git checkout <name branch>
+```
